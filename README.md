@@ -1,4 +1,4 @@
-<img width="100%" alt="Hello, I'm Stephane" src="./assets/banner.png" />
+<img style="border-radius: 5px" width="100%" alt="Hello, I'm Stephane" src="./assets/banner.png" />
 
 <div align="center">
 
