@@ -2,9 +2,9 @@
 
 <div align="center">
 
-> Senior Engineering Manager <a href="https://github.com/ably">@Ably</a>
+## Senior Engineering Manager <a href="https://github.com/ably">@Ably</a>
 
-> Driving Technological Vision & Strategy | Championing EQ in Leadership
+Driving Technological Vision & Strategy | Championing EQ in Leadership
 
 [![Linkedin](https://img.shields.io/badge/-Stephane_Moreau-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefmoreau)](https://www.linkedin.com/in/stefmoreau)
 [![YouTube](https://img.shields.io/badge/-Stephane_Moreau-red?style=flat&logo=Youtube&logoColor=white&link=https://www.linkedin.com/in/stefmoreau)](https://www.youtube.com/@st.moreau?sub_confirmation=1)
