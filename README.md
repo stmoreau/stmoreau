@@ -7,11 +7,11 @@
 Driving Technological Vision & Strategy | Championing EQ in Leadership
 
 <p>
-    <a href="https://www.linkedin.com/in/stefmoreau">
+    <a target="_blank" href="https://www.linkedin.com/in/stefmoreau">
         <img alt="linkedin profile" title="My Linkedin Profile" src="https://custom-icon-badges.demolab.com/badge/Stephane Moreau-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"/></a> 
-    <a href="https://www.youtube.com/@st.moreau?sub_confirmation=1">
+    <a target="_blank" href="https://www.youtube.com/@st.moreau?sub_confirmation=1">
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxtclRELEt2-HdjjTQJJBXA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-    <a href="https://www.youtube.com/@st.moreau">
+    <a target="_blank" href="https://www.youtube.com/@st.moreau">
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxtclRELEt2-HdjjTQJJBXA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 </p>
 
@@ -32,4 +32,5 @@ Driving Technological Vision & Strategy | Championing EQ in Leadership
 [![Roadmap Strategies for Success by Senior Engineering Manager](https://ytcards.demolab.com/?id=VOkwKCzoeIs&title=Roadmap+Strategies+for+Success+by+Senior+Engineering+Manager&lang=en&timestamp=1690121780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=615 "Roadmap Strategies for Success by Senior Engineering Manager")](https://www.youtube.com/watch?v=VOkwKCzoeIs)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@st.moreau?sub_confirmation=1)
+<a target="_blank" href="https://www.youtube.com/@st.moreau?sub_confirmation=1">
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/></a>
