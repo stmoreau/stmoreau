@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="100%" alt="Hello, I'm Stephane" src="./assets/banner.png" />
 
-<!--
-**stmoreau/stmoreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+> Senior Engineering Manager <a href="https://github.com/ably">@Ably</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Driving Technological Vision & Strategy | Championing EQ in Leadership
+
+[![Linkedin](https://img.shields.io/badge/-Stephane_Moreau-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefmoreau)](https://www.linkedin.com/in/stefmoreau)
+[![YouTube](https://img.shields.io/badge/-Stephane_Moreau-red?style=flat&logo=Youtube&logoColor=white&link=https://www.linkedin.com/in/stefmoreau)](https://www.youtube.com/@st.moreau?sub_confirmation=1)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stmoreau&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,issues,contribs)](https://github.com/stmoreau/github-readme-stats)
+
+</div>
