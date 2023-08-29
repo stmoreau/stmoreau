@@ -15,9 +15,12 @@ Driving Technological Vision & Strategy | Championing EQ in Leadership
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxtclRELEt2-HdjjTQJJBXA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 </p>
 
+<!-- github stats -->
+<!-- 
 [![GitHub stats](https://github-readme-stats-stmoreau.vercel.app/api?username=stmoreau&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,issues,contribs)](https://github.com/stmoreau/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-stmoreau.vercel.app/api/top-langs/?username=stmoreau&hide_progress=true&hide=css,html,objective-c,swift)
+ -->
 
 ---
 
