@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Senior Engineering Manager <a href="https://github.com/ably">@Ably</a>
+## Engineering Manager <a href="https://www.egress.com">@Egress</a>
 
 Driving Technological Vision & Strategy | Championing EQ in Leadership
 
