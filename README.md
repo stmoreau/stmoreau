@@ -15,6 +15,20 @@ Driving Technological Vision & Strategy | Championing EQ in Leadership
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxtclRELEt2-HdjjTQJJBXA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 </p>
 
+</div>
+
+Hi, I'm Stephane Moreau, a London-based Leader in Tech.
+
+Working at [Egress](https://egress.com/) as Engineering Manager for the Data Platform team.
+
+In my previous roles, I focused on enhancing product development and leading cloud migrations by managing teams at [Mimecast](https://mimecast.com/), [Ably](https://ably.com/) and [IG](https://ig.com/). Additionally, I played crucial roles in tech startups like [Voxygen](https://www.crunchbase.com/acquisition/speik-acquires-voxygen--9b0fe12d) and [Nexmo](https://www.crunchbase.com/acquisition/vonage-acquires-nexmo--cb04c79e), contributing to their successful acquisitions.
+
+I'm an advocate for Agile methodologies, emphasizing [intent-based leadership](https://www.youtube.com/watch?v=pYKH2uSax8U) and committing to continuous improvement and psychological safety.
+
+Aside from my professional endeavors, I'm pursuing a part-time [MSc in Technology Management](https://www.open.ac.uk/postgraduate/qualifications/f36) and I aspire to become decent at creating [<span i-simple-icons-youtube /> YouTube content](https://www.youtube.com/@st.moreau?sub_confirmation=1).
+
+<div align="center">
+
 <!-- github stats -->
 <!-- 
 [![GitHub stats](https://github-readme-stats-stmoreau.vercel.app/api?username=stmoreau&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs,issues,contribs)](https://github.com/stmoreau/github-readme-stats)
