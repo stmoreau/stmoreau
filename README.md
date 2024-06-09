@@ -27,6 +27,8 @@ I'm an advocate for Agile methodologies, emphasizing [intent-based leadership](h
 
 Aside from my professional endeavors, I'm pursuing a part-time [MSc in Technology Management](https://www.open.ac.uk/postgraduate/qualifications/f36) and I aspire to become decent at creating [<span i-simple-icons-youtube /> YouTube content](https://www.youtube.com/@st.moreau?sub_confirmation=1).
 
+Creator of [EM Tools](https://em-tools.io/), a website offering tools and resources for Engineering Managers, including a career framework for both ICs and EMs, a knowledge base, and much more.
+
 <div align="center">
 
 <!-- github stats -->
