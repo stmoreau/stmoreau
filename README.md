@@ -4,7 +4,7 @@
 
 # Senior Engineering Manager
 
-### Access my [Free EM Masterclass](https://www.em-tools.io/en/em-masterclass) 🌟
+### Access my [Free EM Masterclass](https://www.em-tools.io/en/em-masterclass) or my [Blog for EMs](blog.em-tools.io)
 
 <p>
     <a target="_blank" href="https://www.linkedin.com/in/stefmoreau">
@@ -34,6 +34,7 @@ If you’re ready to accelerate your journey I offer:
 - 🌟 [Free Engineering Manager Masterclass](https://www.em-tools.io/en/em-masterclass)
 - 🎯 [EM Templates & Playbooks](https://www.em-tools.io/en/em-templates)
 - 📈 Career Frameworks for [ICs](https://www.em-tools.io/en/career-framework/ic) & [EMs](https://www.em-tools.io/en/career-framework/em)
+- 📖 [Blog for Engineering Managers](https://blog.em-tools.io)
 - 🚀 [12-Week Leadership Accelerator](https://www.em-tools.io/en/leadership-accelerator)
 
 → https://www.em-tools.io
