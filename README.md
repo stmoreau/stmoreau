@@ -1,10 +1,10 @@
-<a href="https://www.em-tools.io/en/em-masterclass" target="_blank" rel="noopener noreferrer"><img width="100%" height="auto" alt="Register to the Free EM Masterclass" src="./assets/banner.png" /></a>
+<a href="https://www.em-tools.io/em-masterclass" target="_blank" rel="noopener noreferrer"><img width="100%" height="auto" alt="Register to the Free EM Masterclass" src="./assets/banner.png" /></a>
 
 <div align="center">
 
 # Senior Engineering Manager
 
-### Access my [Free EM Masterclass](https://www.em-tools.io/en/em-masterclass) or my [Blog for EMs](blog.em-tools.io)
+### Access my [Free EM Masterclass](https://www.em-tools.io/em-masterclass) or my [Blog for EMs](blog.em-tools.io)
 
 <p>
     <a target="_blank" href="https://www.linkedin.com/in/stefmoreau">
@@ -27,15 +27,15 @@ Here’s what happened:
 
 <strong>2022</strong>: Advanced to a Senior EM / Head of Engineering role at a high growth startup, overseeing 4 global teams (20+ engineers) managing 25 open-source libraries. Improved innovation and enhanced cross-functional collaboration across the company.
 
-<strong>2024</strong> & Beyond: Founded [EM Tools](https://www.em-tools.io) to empower engineers to confidently transition into leadership roles. My mission is to provide the resources I wish I had when I started: an [EM Masterclass](https://www.em-tools.io/en/em-masterclass), [templates for Engineering Managers](https://www.em-tools.io/en/em-templates), career frameworks for [ICs](https://www.em-tools.io/en/career-framework/ic) and [EMs](https://www.em-tools.io/en/career-framework/em), and more.
+<strong>2024</strong> & Beyond: Founded [EM Tools](https://www.em-tools.io) to empower engineers to confidently transition into leadership roles. My mission is to provide the resources I wish I had when I started: an [EM Masterclass](https://www.em-tools.io/em-masterclass), [templates for Engineering Managers](https://www.em-tools.io/em-templates), career frameworks for [ICs](https://www.em-tools.io/career-framework/ic) and [EMs](https://www.em-tools.io/career-framework/em), and more.
 
 If you’re ready to accelerate your journey I offer:
 
-- 🌟 [Free Engineering Manager Masterclass](https://www.em-tools.io/en/em-masterclass)
-- 🎯 [EM Templates & Playbooks](https://www.em-tools.io/en/em-templates)
-- 📈 Career Frameworks for [ICs](https://www.em-tools.io/en/career-framework/ic) & [EMs](https://www.em-tools.io/en/career-framework/em)
+- 🌟 [Free Engineering Manager Masterclass](https://www.em-tools.io/em-masterclass)
+- 🎯 [EM Templates & Playbooks](https://www.em-tools.io/em-templates)
+- 📈 Career Frameworks for [ICs](https://www.em-tools.io/career-framework/ic) & [EMs](https://www.em-tools.io/career-framework/em)
 - 📖 [Blog for Engineering Managers](https://blog.em-tools.io)
-- 🚀 [12-Week Leadership Accelerator](https://www.em-tools.io/en/leadership-accelerator)
+- 🚀 [12-Week Leadership Accelerator](https://www.em-tools.io/leadership-accelerator)
 
 → https://www.em-tools.io
 
