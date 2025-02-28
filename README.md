@@ -1,75 +1,60 @@
-<a href="https://www.em-tools.io/em-masterclass" target="_blank" rel="noopener noreferrer"><img width="100%" height="auto" alt="Register to the Free EM Masterclass" src="./assets/banner.png" /></a>
+<a href="https://www.em-tools.io/em-masterclass" target="_blank" rel="noopener noreferrer">
+    <img width="100%" height="auto" alt="Register for the Free EM Masterclass" src="./assets/banner.png" />
+</a>
 
 <div align="center">
 
-# Senior Engineering Manager
+# Stephane Moreau
 
-### Access my [Free EM Masterclass](https://www.em-tools.io/em-masterclass) or my [Blog for EMs](blog.em-tools.io)
+### 🎯 Helping Engineers Become High-Impact Leaders  
 
-<p>
-    <a target="_blank" href="https://www.linkedin.com/in/stefmoreau">
-        <img alt="linkedin profile" title="My Linkedin Profile" src="https://custom-icon-badges.demolab.com/badge/Stephane Moreau-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"/></a> 
-<!--     <a target="_blank" href="https://www.youtube.com/@st.moreau?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxtclRELEt2-HdjjTQJJBXA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-    <a target="_blank" href="https://www.youtube.com/@st.moreau">
-        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxtclRELEt2-HdjjTQJJBXA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  -->
-</p>
+🔗 [**Join my Free EM Masterclass**](https://www.em-tools.io/em-masterclass) • 📖 [**Read my Blog for EMs**](https://blog4ems.com)  
+
+<a target="_blank" href="https://www.linkedin.com/in/stefmoreau">
+    <img alt="LinkedIn Profile" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Stephane Moreau-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"/>
+</a>  
 
 </div>
 
-### I skipped uni to chase my dream in London - and it was the best decision I ever made.
+---
 
-I skipped uni to chase my dream in London - and it was the best decision I ever made.
+## 🛤 My Journey: From University Dropout to Engineering Leadership  
 
-Here’s what happened:
+🎓 **2016** → Dropped out of university in Greece, packed my bags, and moved to London with **no degree, no connections, and no safety net**.  
+💡 **1 Month Later** → Landed my first **Software Engineering** job.  
 
-<strong>2016</strong>
+🚀 **2019** → Became an **Engineering Manager** at a **Cyber Security company**.  
+🛡 **Led teams protecting millions** from cyber threats.  
 
-↳ Dropped out of university in Greece.
+🌍 **2022** → Moved to a **Senior EM / Head of Engineering** role at a high-growth startup.  
+👨‍💻 **Managed 4 global teams & 25+ open-source libraries.**  
 
-↳ Moved to London with no degree, no connections, but a dream - to work as a software engineer.
+🤖 **2024 & Beyond** → **Leading GenAI at Zopa Bank** 🚀  
+📖 Writing a **Blog for Engineering Managers**  
+🎯 Coaching engineers to **confidently transition into leadership roles**  
 
-↳ Got my first software engineering job within 1 month.
+---
 
-<strong>2019</strong>
+## 🚀 How I Can Help You  
 
-↳ Landed an Engineering Manager role at a leading Cyber Security company.
+🔥 Here’s how I can help you **right now**:  
 
-↳ Led a team that developed solutions protecting millions of users from cyber threats.
+✅ **Learn Engineering Management for Free** → [EM Masterclass](https://www.em-tools.io/em-masterclass)  
+✅ **Streamline your work instantly** → [50+ EM templates & playbooks](https://www.em-tools.io/em-templates)  
+✅ **Land your dream leadership role** → [1:1 Coaching, CV & LinkedIn Optimization, Mock Interviews](https://www.em-tools.io/one-to-one-sessions)  
+✅ **Transform into a high-impact leader in 12 weeks** → [Leadership Accelerator Program](https://www.em-tools.io/leadership-accelerator)  
+✅ **Stay ahead with my best insights** → [Join 1,000s of Leaders and subscribe to my newsletter](https://blog.em-tools.io)  
 
-<strong>2022</strong>
+---
 
-↳ Moved to a Senior EM / Head of Engineering role at a high growth startup.
+## 🔥 Why Follow Me?  
 
-↳ Managing 4 global teams (20+ engineers) and 25 open-source libraries.
+🚀 I’ve coached **100+ engineers** into leadership roles.  
+🎯 I break down **real-world leadership** into actionable, **no-fluff** insights.  
+📢 I share what **actually works** in Engineering Management.  
 
-<strong>2024 & Beyond</strong>
+📌 **Follow me on** [LinkedIn](https://www.linkedin.com/in/stefmoreau)
 
-↳ Managing a talented team to build a highly confidential (and super cool) GenAI tool at Zopa Bank 🤐 
+---
 
-↳ Writing a Blog for Engineering Managers
-
-↳ Coaching engineers to confidently transition into leadership roles.
-
-<hr>
-
-I’ve coached 100+ engineers, helping them land leadership positions and increase their impact.
-
-Here’s how I can help you:
-
-→ Join 100s of leaders and subscribe to <a href="https://blog.em-tools.io">my newsletter</a>
-
-→ Learn the fundamentals of Engineering Management, for free in my <a href="https://www.em-tools.io/em-masterclass">EM Masterclass</a>
-
-→ Streamline your processes using my <a href="https://www.em-tools.io/em-templates">50+ templates and playbooks for EMs</a>
-
-→ Grow your skills, get seen by more recruiters & hiring managers and ace your next interview with <a href="https://www.em-tools.io/one-to-one-sessions">1:1 Coaching, CV & LinkedIn Optimization, and Mock Interviews</a>
-
-→ Transform into a leader in just 12 weeks:
-My <a href="https://www.em-tools.io/leadership-accelerator">Leadership Accelerator Program</a> is unlike anything you’ve seen before.
-
-<hr/>
-
-Or follow me on <a href="https://www.linkedin.com/in/stefmoreau/">LinkedIn</a> where I share insights on engineering, leadership, and how to transition from IC to EM through real stories and actionable advice.
-
-See you around 👋
+🚀 **See you aaround 👋**
