@@ -1,5 +1,5 @@
-<a href="https://www.em-tools.io/em-masterclass" target="_blank" rel="noopener noreferrer">
-    <img width="100%" height="auto" alt="Register for the Free EM Masterclass" src="./assets/banner.jpeg" />
+<a href="https://www.blog4ems.com/" target="_blank" rel="noopener noreferrer">
+    <img width="100%" height="auto" alt="Subscribe to the Blog for Engineering Managers" src="./assets/banner.png" />
 </a>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ### 🎯 Helping Engineers Become High-Impact Leaders
 
-🔗 [**Join my Free EM Masterclass**](https://www.em-tools.io/em-masterclass) • 📖 [**Read my Blog for EMs**](https://blog4ems.com)
+🔗 [**Get The EM Field Guide**](https://www.em-tools.io/em-field-guide) • 📖 [**Read my Blog for EMs**](https://blog4ems.com)
 
 <a target="_blank" href="https://www.linkedin.com/in/stefmoreau">
     <img alt="LinkedIn Profile" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Stephane Moreau-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"/>
@@ -39,7 +39,7 @@
 
 🔥 Here’s how I can help you **right now**:
 
-✅ **Learn Engineering Management for Free** → [EM Masterclass](https://www.em-tools.io/em-masterclass)  
+✅ **Learn Engineering Management** → [The Engineering Manager's Field Guide](https://www.em-tools.io/em-field-guide)  
 ✅ **Streamline your work instantly** → [50+ EM templates & playbooks](https://www.em-tools.io/em-templates)  
 ✅ **Land your dream leadership role** → [1:1 Coaching, CV & LinkedIn Optimization, Mock Interviews](https://www.em-tools.io/one-to-one-sessions)  
 ✅ **Transform into a high-impact leader in 12 weeks** → [Leadership Accelerator Program](https://www.em-tools.io/leadership-accelerator)  
