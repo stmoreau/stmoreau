@@ -20,17 +20,17 @@
 
 ## 🛤 My Journey: From University Dropout to Engineering Leadership
 
-🎓 **2016** → Dropped out of university in Greece, packed my bags, and moved to London with **no degree, no connections, and no safety net**.
+🎓 **2016** → Dropped out of university in Greece, packed my bags, and moved to London with **no degree, no connections, and no safety net**.  
 💡 **1 Month Later** → Landed my first **Software Engineering** job.
 
-🚀 **2019** → Became an **Engineering Manager** at a **Cyber Security company**.
+🚀 **2019** → Became an **Engineering Manager** at a **Cyber Security company**.  
 🛡 **Led teams protecting millions** from cyber threats.
 
-🌍 **2022** → Moved to a **Senior EM / Head of Engineering** role at a high-growth startup.
+🌍 **2022** → Moved to a **Senior EM / Head of Engineering** role at a high-growth startup.  
 👨‍💻 **Managed 4 global teams & 25+ open-source libraries.**
 
-🤖 **2024 & Beyond** → **Leading GenAI at Zopa Bank** 🚀
-📖 Writing a **Blog for Engineering Managers**
+🤖 **2024 & Beyond** → **Leading GenAI at Zopa Bank** 🚀  
+📖 Writing a **Blog for Engineering Managers**  
 🎯 Coaching engineers to **confidently transition into leadership roles**
 
 ---
@@ -39,19 +39,19 @@
 
 🔥 Here’s how I can help you **right now**:
 
-✅ **Get hired FAST** → [Get hired as an Engineering Manager](https://www.em-tools.io/get-hired-engineering-manager)
-✅ **Learn Engineering Management** → [The Engineering Manager's Field Guide](https://www.em-tools.io/em-field-guide)
-✅ **Streamline your work instantly** → [50+ EM templates & playbooks](https://www.em-tools.io/em-templates)
-✅ **Land your dream leadership role** → [1:1 Coaching, CV & LinkedIn Optimization, Mock Interviews](https://www.em-tools.io/one-to-one-sessions)
-✅ **Transform into a high-impact leader in 12 weeks** → [Leadership Accelerator Program](https://www.em-tools.io/leadership-accelerator)
+✅ **Get hired FAST** → [Get hired as an Engineering Manager](https://www.em-tools.io/get-hired-engineering-manager)  
+✅ **Learn Engineering Management** → [The Engineering Manager's Field Guide](https://www.em-tools.io/em-field-guide)  
+✅ **Streamline your work instantly** → [50+ EM templates & playbooks](https://www.em-tools.io/em-templates)  
+✅ **Land your dream leadership role** → [1:1 Coaching, CV & LinkedIn Optimization, Mock Interviews](https://www.em-tools.io/one-to-one-sessions)  
+✅ **Transform into a high-impact leader in 12 weeks** → [Leadership Accelerator Program](https://www.em-tools.io/leadership-accelerator)  
 ✅ **Stay ahead with my best insights** → [Join 1,000s of Leaders and subscribe to my newsletter](https://blog.em-tools.io)
 
 ---
 
 ## 🔥 Why Follow Me?
 
-🚀 I’ve coached **100+ engineers** into leadership roles.
-🎯 I break down **real-world leadership** into actionable, **no-fluff** insights.
+🚀 I’ve coached **100+ engineers** into leadership roles.  
+🎯 I break down **real-world leadership** into actionable, **no-fluff** insights.  
 📢 I share what **actually works** in Engineering Management.
 
 📌 **Follow me on** [LinkedIn](https://www.linkedin.com/in/stefmoreau)
