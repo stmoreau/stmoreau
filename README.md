@@ -37,6 +37,7 @@
 
 **I help engineers accelerate their career growth with proven strategies and tools.**
 
+- [Voice AI Interview Coach](https://www.em-tools.io/interview-prep)
 - [Get hired as an Engineering Manager](https://www.em-tools.io/get-hired-engineering-manager)  
 - [The Engineering Manager's Field Guide](https://www.em-tools.io/em-field-guide)  
 - [50+ EM templates & playbooks](https://www.em-tools.io/em-templates)  
